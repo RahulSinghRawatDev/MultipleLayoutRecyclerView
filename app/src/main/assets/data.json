@@ -1,0 +1,131 @@
+{
+  "homeData": [
+    {
+    "title": "Trending",
+    "type": "banner",
+    "data": [{
+      "content": "pizza"
+    },
+      {
+        "content": "raja chawal"
+      },
+      {
+        "content": "raja chawal"
+      }
+    ]
+  },
+    {
+      "title": "Party",
+      "type": "veticalList",
+      "data": [{
+        "content": "pizza"
+      },
+        {
+          "content": "raja chawal"
+        }
+      ]
+    },
+    {
+      "title": "Discounds",
+      "type": "horizontalList",
+      "data": [{
+        "content": "pizza"
+      },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        }
+      ]
+    },
+    {
+      "title": "Best Price",
+      "type": "veticalList",
+      "data": [{
+        "content": "pizza"
+      },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        }
+      ]
+    },
+
+    {
+      "title": "Jobs",
+      "type": "banner",
+      "data": [{
+        "content": "pizza"
+      },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        }
+      ]
+    },
+    {
+      "title": "Black Friday",
+      "type": "horizontalList",
+      "data": [{
+        "content": "pizza"
+      },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        }
+      ]
+    },
+    {
+      "title": "Data",
+      "type": "horizontalList",
+      "data": [{
+        "content": "pizza"
+      },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        }
+      ]
+    },    {
+      "title": "Vconnect",
+      "type": "banner",
+      "data": [{
+        "content": "pizza"
+      },
+        {
+          "content": "raja chawal"
+        },
+        {
+          "content": "raja chawal"
+        }
+      ]
+    }
+  ]
+}
